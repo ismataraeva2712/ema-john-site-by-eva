@@ -1,0 +1,40 @@
+.review-container img {
+    width: 91px;
+    margin-right: 20px;
+    border-radius: 15px;
+}
+
+.review-container {
+    display: flex;
+    border: 1px solid gray;
+    margin: 20px;
+    border-radius: 15px;
+    width: 80%
+}
+
+.review-details p {
+    margin: 0;
+
+}
+
+.details-container {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.details-container button {
+    margin-right: 10px;
+    background-color: rgba(230, 166, 166, 0.652);
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+
+}
+
+.delet {
+    font-size: 27px;
+    color: rgb(159, 20, 20);
+    padding: 10px;
+}
